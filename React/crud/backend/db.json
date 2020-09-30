@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bruno Monarini",
+      "email": "monarini97@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Tayna Oliveira",
+      "email": "tayna.vanderlei@gmail.com"
+    }
+  ]
+}
